@@ -19,6 +19,6 @@ getline(cin,a);
 for (int i = a.length()-1;i>=0;i-- ){ //o loop percorre a string inteira e imprime ela de tras pra frente.     
     cout<<a[i];                       //o loop começa do final e itera ate o primeiro caractere.
 }
-
+cout<<a;
     return 0;
 }
